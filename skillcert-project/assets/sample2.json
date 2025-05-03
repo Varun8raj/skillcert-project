@@ -1,0 +1,11 @@
+{
+  "name": "Devops - Beginner",
+  "description": "Beginner Devops Programming Course with Projects and Assessments.",
+  "attributes": [
+    { "trait_type": "Skill Level", "value": "Advanced" },
+    { "trait_type": "Endorsements", "value": 2 },
+    { "trait_type": "Projects Completed", "value": 3 },
+    { "trait_type": "Issued By", "value": "Khan Academy" },
+    { "trait_type": "Issued On", "value": "2025-05-08" }
+  ]
+}
